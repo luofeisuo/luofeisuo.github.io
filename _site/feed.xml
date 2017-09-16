@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-14T22:35:34+09:00</updated><id>http://localhost:4000/</id><title type="html">HanYi’s blog</title><subtitle>This is HanYi's personal blog site.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/09/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-09-14T14:49:24+09:00</published><updated>2017-09-14T14:49:24+09:00</updated><id>http://localhost:4000/jekyll/update/2017/09/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/09/14/welcome-to-jekyll.html">&lt;p&gt;#Testing
+You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">#Testing You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">乌拉尔之旅</title><link href="http://localhost:4000/travel/2017/03/11/russian-travel.html" rel="alternate" type="text/html" title="乌拉尔之旅" /><published>2017-03-11T14:49:24+09:00</published><updated>2017-03-11T14:49:24+09:00</updated><id>http://localhost:4000/travel/2017/03/11/russian-travel</id><content type="html" xml:base="http://localhost:4000/travel/2017/03/11/russian-travel.html">&lt;h1 id=&quot;乌拉尔urals地区的工业文明&quot;&gt;乌拉尔(Urals)地区的工业文明&lt;/h1&gt;
+
+&lt;p&gt;讲座的演讲者是：Maria O. Guzikova 乌拉尔联邦大学孔子学院的院长。&lt;/p&gt;
+
+&lt;p&gt;乌拉尔地区处于欧亚边境处，乌拉尔山脉。
+当地的最初发展是由于当地的寒冷，故皮草方面的交易
+由于战争的发生，需要自然资源中的铁和水流，而叶卡有丰富的资源。
+这些开采资源的人们住在了这里，并拥有自己独特的骄傲感。
+由于自然环境的恶劣和工作的劳累（冷，体力活），在乌拉尔地区的人们主要价值是拥有一技之长，来克服这些自然环境的恶劣情况。
+这也让乌拉尔地区的人们养成了能吃苦耐劳的优秀精神品质。&lt;/p&gt;
+
+&lt;p&gt;许多的价值观能够从当地的民俗神话中反映出来：手艺人Danila到了Malachite女士去学艺，牺牲了自己的自由并使用Malachite的石头制造了最美的工艺。她的未婚妻也一直等待他的归来，并自己成为了一个工匠。Malachite威胁Danila他回去就会忘记这些手艺，但最后Danila还是回去了自己的家乡并且没有忘记任何的精湛技艺。&lt;/p&gt;
+
+&lt;h1 id=&quot;食物&quot;&gt;食物&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/Images/pic5.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;test-for-english&quot;&gt;Test for English&lt;/h1&gt;</content><author><name></name></author><summary type="html">乌拉尔(Urals)地区的工业文明</summary></entry></feed>
